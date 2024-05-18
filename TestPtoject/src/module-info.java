@@ -5,5 +5,5 @@
  * @author hp
  *
  */
-module TestProject {
+module TestPtoject {
 }
